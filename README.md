@@ -78,7 +78,5 @@ The project consists of two main parts:
 | **POST** | `/api/appointments` | Create a new appointment. Requires JSON body with `firstName`, `lastName`, `email`, `phone`, `roomId`, `checkIn`, `checkOut`. |
 
 ## Demo Video
-
-
-[![Watch the demo](https://cdn.loom.com/sessions/thumbnails/bbfd1aa11eab4e1e8856b09cfab0b3b3-with-play.gif)](https://www.loom.com/share/bbfd1aa11eab4e1e8856b09cfab0b3b3)
+https://www.loom.com/share/bbfd1aa11eab4e1e8856b09cfab0b3b3
 
